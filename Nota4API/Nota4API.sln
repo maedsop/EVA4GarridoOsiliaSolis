@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nota4API", "Nota4API.csproj", "{9B1CF35F-E5DA-4C27-8863-A26ED3A2A127}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B1CF35F-E5DA-4C27-8863-A26ED3A2A127}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B1CF35F-E5DA-4C27-8863-A26ED3A2A127}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B1CF35F-E5DA-4C27-8863-A26ED3A2A127}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B1CF35F-E5DA-4C27-8863-A26ED3A2A127}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE3E04BA-8F75-4C48-B1DD-C6EC9CC691F2}
+	EndGlobalSection
+EndGlobal
